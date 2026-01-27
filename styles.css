@@ -14,6 +14,11 @@
             --purple: #b266ff;
         }
 
+        a{
+            text-decoration: none;
+            color: var(--neon);
+        }
+
         body {
             background: linear-gradient(135deg, #1a1035 0%, #2a2356 50%, #3d3477 100%);
             color: white;
